@@ -1,6 +1,14 @@
 using BlazorApp.Components;
+using MySql.Data.MySqlClient;
 
 var builder = WebApplication.CreateBuilder(args);
+
+//BD Connection - Inyección de dependencias
+builder.Services.AddScoped<MySqlConnection>(sp =>
+    new MySqlConnection(builder.Configuration.GetConnectionString("MySqlConnection"))
+);
+
+builder.Services.AddScoped<DatabaseService>();
 
 // Add services to the container.
 builder.Services.AddRazorComponents()

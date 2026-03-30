@@ -1,10 +1,28 @@
 @page "/examples"
+@inject DatabaseService db
 
 <PageTitle>Examples</PageTitle>
 
 <h1>Examples - Practices C# & .NET</h1>
 
-<div class="product">
-    <h2>Teclado</h2>
-    <img src="https://i.pinimg.com/1200x/c1/21/84/c12184fd6ecdfa846a5a7b91f888553e.jpg"  alt="teclado"/>
-</div>
+@if (producto == null)
+{
+    <p><em>Cargando...</em></p>
+}
+else
+{
+    <div class="product">
+        <h2>@producto.nombre</h2>
+        <img src="https://i.pinimg.com/1200x/c1/21/84/c12184fd6ecdfa846a5a7b91f888553e.jpg" alt="teclado" />
+        <p>Descripción: @producto.descripcion</p>
+        <p>Precio: @producto.precio</p>
+    </div>
+}
+
+@code{
+    Producto? producto;
+
+    protected override async Task OnInitializedAsync(){
+        producto = await db.GetProducto();
+    }
+}
