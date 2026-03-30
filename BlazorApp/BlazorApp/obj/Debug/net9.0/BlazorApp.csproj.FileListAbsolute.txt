@@ -62,8 +62,6 @@ C:\Users\shiuu\.NET\BlazorApp\BlazorApp\obj\Debug\net9.0\compressed\0u96xy8fvl-n
 C:\Users\shiuu\.NET\BlazorApp\BlazorApp\obj\Debug\net9.0\compressed\5njhqh7xtn-h1s4sie4z3.gz
 C:\Users\shiuu\.NET\BlazorApp\BlazorApp\obj\Debug\net9.0\compressed\kxietpdl1t-63fj8s7r0e.gz
 C:\Users\shiuu\.NET\BlazorApp\BlazorApp\obj\Debug\net9.0\compressed\opd9y4aud5-0j3bgjxly4.gz
-C:\Users\shiuu\.NET\BlazorApp\BlazorApp\obj\Debug\net9.0\compressed\io2m3ndci8-gkfn466dw3.gz
-C:\Users\shiuu\.NET\BlazorApp\BlazorApp\obj\Debug\net9.0\compressed\wo77s772mi-gkfn466dw3.gz
 C:\Users\shiuu\.NET\BlazorApp\BlazorApp\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\shiuu\.NET\BlazorApp\BlazorApp\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\shiuu\.NET\BlazorApp\BlazorApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -78,3 +76,6 @@ C:\Users\shiuu\.NET\BlazorApp\BlazorApp\obj\Debug\net9.0\refint\BlazorApp.dll
 C:\Users\shiuu\.NET\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.pdb
 C:\Users\shiuu\.NET\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.genruntimeconfig.cache
 C:\Users\shiuu\.NET\BlazorApp\BlazorApp\obj\Debug\net9.0\ref\BlazorApp.dll
+C:\Users\shiuu\.NET\BlazorApp\BlazorApp\obj\Debug\net9.0\scopedcss\Components\Pages\Examples.razor.rz.scp.css
+C:\Users\shiuu\.NET\BlazorApp\BlazorApp\obj\Debug\net9.0\compressed\io2m3ndci8-za5xqz4ev7.gz
+C:\Users\shiuu\.NET\BlazorApp\BlazorApp\obj\Debug\net9.0\compressed\wo77s772mi-za5xqz4ev7.gz

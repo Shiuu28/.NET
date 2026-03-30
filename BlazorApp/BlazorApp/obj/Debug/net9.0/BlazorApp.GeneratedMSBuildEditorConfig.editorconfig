@@ -55,3 +55,7 @@ build_metadata.AdditionalFiles.CssScope = b-qgsvw684bo
 [C:/Users/shiuu/.NET/BlazorApp/BlazorApp/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-g8o6n169oq
+
+[C:/Users/shiuu/.NET/BlazorApp/BlazorApp/Components/Pages/Examples.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFeGFtcGxlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-zqd7kke83s
